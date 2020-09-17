@@ -1,0 +1,25 @@
+.backgrounds {
+  background: #00fc86;
+  background-color: #fcd3c8;
+  background-color: #c8fcde;
+  border-color: #f9ad99;
+  border-color: #81e9b8;
+}
+
+.table-hover .table-primary:hover {
+  background-color: #fbc0b0;
+  border-color: #57e6a3;
+}
+
+.text-primary {
+  color: #20c997 !important;
+}
+
+a.text-primary:hover,
+a.text-primary:focus {
+  color: #00fc86 !important;
+}
+
+.bg-primary {
+  background-color: #81e9b8 !important;
+}
