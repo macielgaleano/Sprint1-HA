@@ -1,0 +1,95 @@
+body {
+	font-family: "Poppins", sans-serif;
+}
+
+/* CATEGORIES */
+
+#categories h6 {
+	font-size: 1rem;
+	color: #323f52;
+}
+
+#categories p {
+	font-size: 0.9rem;
+	color: #687281;
+}
+
+#categories a:nth-child(-n + 5):hover {
+	text-decoration: underline #323f52;
+}
+
+/* LATEST NEWS */
+
+#news h4 {
+	color: #323f52;
+	font-size: 1.1rem;
+}
+
+#news p,
+#news small {
+	color: #a5afbc;
+}
+
+#news .bg-custom {
+	background-color: #ecf0f6;
+}
+
+/* FOOTER */
+
+#footer-background {
+	padding: 3rem 0 2rem 0;
+	background-color: #1f2d41;
+	position: relative;
+}
+
+#footer-background::before {
+	content: "";
+	height: 40px;
+	width: 100%;
+	background: transparent url("../img/curveWhite.svg");
+	background-repeat: no-repeat;
+	position: absolute;
+	top: -40px;
+}
+
+footer ul li {
+	margin-bottom: 0.4rem;
+}
+
+footer,
+footer a,
+footer i,
+footer a:hover {
+	color: #a5abb3;
+}
+
+footer h3 {
+	font-size: 0.9rem;
+}
+
+footer h4 {
+	font-size: 1.2rem;
+}
+
+footer h5 {
+	font-size: 1rem;
+}
+
+#social-icons a {
+	font-size: 1.25rem;
+	margin-right: 0.5rem;
+}
+
+footer hr {
+	border-color: #364254;
+}
+
+#social-icons a:hover {
+	text-decoration: none;
+}
+
+@media (max-width: 992px) {
+	footer h3 {
+		margin-top: 1rem;
+	}
+}

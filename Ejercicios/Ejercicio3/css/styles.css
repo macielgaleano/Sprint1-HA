@@ -1,0 +1,34 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.svg-border-labding-pages svg {
+  bottom: 0;
+  left: 0;
+  height: 3rem;
+  width: 100%;
+  color: #1f2d41;
+  background-color: #eff3f9;
+  position: relative;
+  z-index: 2000;
+  padding-top: 0rem;
+}
+
+.svg-border-labding-pages {
+  background-color: #eff3f9;
+}
+
+#news {
+  margin-bottom: 0;
+  z-index: 1000000;
+  position: relative;
+  bottom: -50px;
+}
+
+.ml-10 {
+  margin-left: 5.494rem;
+}
+
+.bg-light {
+  background-color: #eff3f9;
+}

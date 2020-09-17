@@ -1,0 +1,4 @@
+git clone https://github.com/finalstory2/Sprin-1-Ejercicio-3-MJ-MG
+git add .
+git commit -m 'test'
+git push origin master 

@@ -1,0 +1,9 @@
+Pauta:
+● Darle acceso a su repositorio (el que crearon en el ejercicio anterior) a un
+compañero de la clase. Darle permisos de escritura (no solamente de
+lectura).
+● A su vez, otro compañero les dará acceso a ustedes.
+● La idea es que se hagan cambios cruzados en sus proyectos.
+● ¿Qué pasa si dos personas hacen cambios sobre el mismo archivo? ¿Cómo
+se soluciona? ¡Pruébenlo!
+    Se soluciona mergeando los dos camnbios, por esta razon es que siempre se debe hace un git pull para mergrar con los cambios derl otro

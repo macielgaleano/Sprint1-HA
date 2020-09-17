@@ -1,0 +1,28 @@
+.container {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.container form input {
+  width: 100%;
+  font-size: 18px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+table {
+  width: 103%;
+}
+
+th {
+  background: #f2f2f2;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  text-align: start;
+  padding: 5px;
+}
